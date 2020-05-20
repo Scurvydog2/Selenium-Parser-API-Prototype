@@ -1,0 +1,14 @@
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.exe
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.deps.json
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.runtimeconfig.json
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.runtimeconfig.dev.json
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.dll
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\seleniumPOC.pdb
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Evan Cook\selenium\seleniumPOC\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.csprojAssemblyReference.cache
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.AssemblyInfoInputs.cache
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.AssemblyInfo.cs
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.csproj.CopyComplete
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.dll
+C:\Users\Evan Cook\selenium\seleniumPOC\obj\Debug\netcoreapp3.1\seleniumPOC.pdb

@@ -1,0 +1,20 @@
+[
+  {
+    "stepType": "1",
+    "field": "",
+    "value": "http://www.demoqa.com",
+    "result": null
+  },
+  {
+    "stepType": "5",
+    "field": "/html/body/div/div[4]/form/div[2]/div[1]/div[1]/div/div[2]/input",
+    "value": "wec",
+    "result": null
+  },
+  {
+    "stepType": "2",
+    "field": "/html/body/div/div[4]/form/div[2]/div[1]/div[3]/center/input[1]",
+    "value": "",
+    "result": null
+  }
+]
